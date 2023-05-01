@@ -1,0 +1,11 @@
+div {
+    font-size: 20px;
+    font-weight: bold;
+}
+/*------ class  . 틀래스명  id #아이디명   */
+.pink {color: rgb(244, 8, 153);}
+.green { color:rgb(53, 226, 53);}
+.yellow { color:rgb(245, 245, 9);}
+
+.big {font: size 50px;}      
+
